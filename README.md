@@ -11,4 +11,5 @@ This repository contains the code we produced to :
 - convert our data to the right shape for the study ;
 - compute the statistical significance ;
 - compute the shift in temperatures ;
+- conformal prediction for estimation in the future years ;
 - build a worldmap with our results.
