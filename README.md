@@ -1,4 +1,9 @@
 # NPS-Project-2023-2024
+
+<p align="center">
+    <img src="./polimi.jpg" alt="drawing" width="800"/>
+</p>
+
 ## Authors : Simon Trottier & Noé Debrois
 
 This repository contains the code we produced to :
