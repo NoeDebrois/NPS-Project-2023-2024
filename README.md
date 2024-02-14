@@ -6,4 +6,4 @@ This repository contains the code we produced to :
 - convert our data to the right shape for the study ;
 - compute the statistical significance ;
 - compute the shift in temperatures ;
-- build the map from our results.
+- build a worldmap with our results.
