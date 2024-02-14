@@ -12,4 +12,5 @@ This repository contains the code we produced to :
 - compute the statistical significance ;
 - compute the shift in temperatures ;
 - conformal prediction for estimation in the future years ;
+- detect extreme events (in Temperature or in Precipitation) ;
 - build a worldmap with our results.
